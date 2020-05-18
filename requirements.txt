@@ -1,0 +1,9 @@
+dataclasses==0.7
+Cython==0.29.15
+Pillow-SIMD==6.0.0.post0
+albumentations==0.4.5
+flake8==3.7.9
+pytest==5.4.1
+torchstat==0.0.7
+tox==3.14.5
+PyYAML==5.3
